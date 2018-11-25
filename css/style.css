@@ -1,0 +1,108 @@
+.link{
+	margin-top: 50px;
+}
+.font-color h4{
+	color: green;
+}
+.h3{
+	margin-top: 30px;
+}
+.outline-button{
+
+}
+.button-1{
+	background: blue;
+	color: #ffffff;
+	transition: 3s;
+}
+.button-1:hover{
+	background: #EA2B4D;
+}
+.button-2{
+	background: #EA2B4D;
+	color: #ffffff;
+	transition: 3s;
+}
+.button-2:hover{
+	background: green;
+}
+.button-3{
+	background: red;
+	color: #ffffff;
+	transition: 3s;
+}
+.button-3:hover{
+	background: pink;
+}
+.button-4{
+	background: yellow;
+	color: #ffffff;
+	transition: 3s;
+}
+.button-4:hover{
+	background: gray;
+}
+.button-Large{
+	margin-top: 50px;
+}
+.button-5{
+	transition: 3s;
+}
+.button-5:hover{
+	background: #6D6E6A;
+	color: black;
+}
+.button-6{
+	transition: 3s;
+}
+.button-6:hover{
+	background: #6D6E6A;
+}
+.button-small{
+	margin-top: 50px;
+}
+.button-7{
+	transition: 3s;
+}
+.button-7:hover{
+	background: yellow;
+}
+.button-8{
+	transition: 3s;
+}
+.button-8:hover{
+	background: red;
+}
+.Block-button{
+	margin-top: 50px;
+}
+.button-9{
+	transition: 3s;
+}
+.button-9:hover{
+	background: #6D6E6A;
+}
+.button-10{
+	transition: 3s;
+}
+.button-10:hover{
+	background: #FF9800;
+}
+.main-card{
+	border: 2px solid black;
+}
+.h5-card{
+	font-size: 30px;
+	color: #003E77;
+}
+.p-cadr{
+	font-size: 20px;
+}
+.button-11{
+	font-size: 20px;
+	transition: 3s;
+}
+.button-11:hover{
+	background: #AC80FF;
+	color: black;
+}
